@@ -6,10 +6,7 @@
     "properties": {
         "dhcp": 1
     },
-    "pkgs": [
-        "qbittorrent-nox",
-        "lang/python3"
-    ],
+    "pkgs": [],
     "packagesite": "http://pkg.FreeBSD.org/${ABI}/latest",
     "fingerprints": {
         "iocage-plugins": [
